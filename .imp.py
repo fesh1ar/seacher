@@ -1,4 +1,4 @@
-import time
+git clone https://github.com/ikeakiller/seacher.gitimport time
 import subprocess
 import requests
 from colorama import init, Fore, Style
